@@ -1,0 +1,6 @@
+{
+  "name": "EVIAI - Mixed-Format Document QA System",
+  "description": "AI-Powered Mixed-Format Document Question Answering System. Ask questions. Get answers with visual evidence you can verify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
